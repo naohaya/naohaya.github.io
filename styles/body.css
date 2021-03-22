@@ -15,7 +15,7 @@
   margin: 0 0 0 0;
 }
 
-H1
+.main.H1
 {
   color : #CCFF99;
   background-color : #4AA5FF;
@@ -29,7 +29,7 @@ H1
   padding-right : 1em;
 }
 
-H2
+.main.H2
 {
   color : #CCFF99;
   background-color : #4AA5FF;
