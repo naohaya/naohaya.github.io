@@ -1,0 +1,103 @@
+BasicInfo:
+  FirstName: Naohiro 
+  LastName: Hayashibara 
+  Photo: img/naohaya3.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: naohaya@cc.kyoto-su.ac.jp
+    - Icon: fas fa-globe
+      Info: www.cc.kyoto-su.ac.jp/~naohaya
+    - Icon: fas fa-map-marker-alt
+      Info: Japan
+
+Profile: Naohiro Hayashibara is an Associate Professor of the Faculty of Information Science and Engineering at Kyoto Sangyo University. He obtained his PhD in Information Science from Japan Advanced Institute of Science and Technology (JAIST) in 2004. After working at JAIST as a Post-doctoral fellow, he worked at Tokyo Denki University as a Research associate. Then, he joined Kyoto Sangyo University as an Assistant Professor in 2008. 
+
+Experience:
+  - Employer: Kyoto Sangyo University
+    Place: Kyoto, Japan
+    Positions:
+      - Title: Associate Professor
+        Date: Apr 2013 - Present
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Title: Assistant Professor
+        Date: Apr 2008 - Mar 2013
+        Details:
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - Employer: Tokyo Denki University
+    Place: Tokyo, Japan 
+    Positions:
+      - Title: Research Associate
+        Date: Apr 2005 - Mar 2008
+        Details:
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - Employer: Japan Advanced Institute of Science and Technology
+    Place: Ishikawa, Japan
+    Positions:
+      - Title: Post-doctoral Fellow
+        Date: Jul 2004 - Mar 2008
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+
+Education:
+  - Course: PhD in Information Science
+    Place: Japan Advanced Institute of Science and Technology
+    Date: Apr 2001 - Jun 2004
+    Thesis: Accrual Failure Detectors 
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Japanese
+    Level: Native
+  - Name: English
+    Level: Working language
+  - Name: French
+    Level: Basic
+
+Interests:
+  - Distributed algorithms
+  - Dependable systems
+  - Meta-heuristic algorithms
+  - Networking
+  - Security
