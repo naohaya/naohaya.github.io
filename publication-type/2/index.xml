@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Naohiro Hayashibara</title>
+    <link>https://naohaya.github.io/publication-type/2/</link>
+      <atom:link href="https://naohaya.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://naohaya.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://naohaya.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Message broadcasting by opportunistic communication on unit disk graphs</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsevi-shinki-sh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsevi-shinki-sh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance evaluation of data replication protocol based on Cuckoo search in mobile ad-hoc networks</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsiot-kurokawa-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsiot-kurokawa-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target exploration by Nomadic Lévy walk on unit disk graphs</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsijguc-sugihara-h-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsijguc-sugihara-h-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable distributed collaborative editing for 3D models using conflict-free data structure</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsijssc-imae-h-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsijssc-imae-h-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource management for raft consensus protocol</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsijssc-nakagawa-h-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsijssc-nakagawa-h-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of the notification system for failure detectors</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsijhpcn-hayashibara-t-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsijhpcn-hayashibara-t-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mobile agent model for fault-tolerant manipulation on distributed objects</title>
+      <link>https://naohaya.github.io/publication/dblp-journalscluster-tanaka-het-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalscluster-tanaka-het-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HAMS: Scalable peer-to-peer multimedia streaming model in heterogeneous networks</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsjcss-itaya-het-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsjcss-itaya-het-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cbf: Look-up Protocol for Distributed Multimedia Objects in Peer-to-peer Overlay Networks</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsjoin-watanabe-ht-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsjoin-watanabe-ht-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a Hierarchical Group to Realize a Scalable Group</title>
+      <link>https://naohaya.github.io/publication/dblp-journalsjmm-nishimura-het-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://naohaya.github.io/publication/dblp-journalsjmm-nishimura-het-05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
