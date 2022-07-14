@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://naohaya.github.io/sitemap.xml
